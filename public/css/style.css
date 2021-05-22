@@ -1,0 +1,25 @@
+
+.header {
+    padding: 20px;
+    text-align: left;
+    background: #3fa369;
+    color: rgb(163, 10, 10);
+    font-size: 30px;
+  }
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #1f7018;
+  color:aliceblue
+}
+
+li {
+  display: inline;
+  
+
+}
+
+body{
+    background-color:#19b30b;
+}
